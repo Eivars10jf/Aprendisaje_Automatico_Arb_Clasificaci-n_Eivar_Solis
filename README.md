@@ -1,1 +1,1 @@
-# Aprendisaje_Automatico_Arb_Clasificaci-n_Eivar_Solis
+# Aprendisaje_Automatico_Arb_Clasificacion_Eivar_Solis
